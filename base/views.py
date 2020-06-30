@@ -2,4 +2,4 @@ from django.shortcuts import render, HttpResponse
 
 # Create your views here.
 def index(request):
-    return HttpResponse('jenkins auto build third test')
+    return HttpResponse('jenkins auto build 4 test')
